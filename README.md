@@ -1,2 +1,7 @@
-# Microsoft-Azure-Conditional-Access-Validator
-This script validates the most common Conditional Access policies in Microsoft 365.
+# Microsoft Azure Conditional Access Validator
+
+Conditional Access policies, at their simplest, are if-then statements. If a user wants to access a resource, they must complete an action. Conditional Access contains many settings, and they can complement each other. Misconfiguration can take place when having multiple Conditional Access policies. I created a PowerShell script for companies to validate their Conditional Access configuration.
+
+# Screenshots
+
+![Alt text](/Screenshots/Microsoft Azure AD Conditional Access Validator 01.jpg.jpg?raw=true "Azure AD Conditional Access Validator")
