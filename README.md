@@ -8,7 +8,7 @@ https://thalpius.com/2021/01/25/microsoft-azure-ad-conditional-access-validator/
 # Usage
 
 ```PowerShell
-Import-Module Invoke-AzureCAValidator.psm1
+Import-Module Invoke-AzureADConditionalAccessValidator.psm1
 
 CheckLegacyAuth -Username user@thalpius.onmicrosoft.com
 CheckDevicePlatforms -Username user@thalpius.onmicrosoft.com
