@@ -14,7 +14,7 @@
  
   Username of an account which is able to login without the need to change their password.
  
-.EXAMPLES
+.EXAMPLE
 
   CheckLegacyAuth -Username user@thalpius.onmicrosoft.com
   CheckDevicePlatforms -Username user@thalpius.onmicrosoft.com
