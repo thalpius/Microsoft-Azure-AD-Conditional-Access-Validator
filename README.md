@@ -7,7 +7,7 @@ For more information about my Microsoft Azure Conditional Access Validator, plea
 
 # Usage
 
-```
+```PowerShell
 Import-Module Invoke-AzureCAValidator.psm1
 
 CheckLegacyAuth -Username user@thalpius.onmicrosoft.com
