@@ -5,3 +5,5 @@ Conditional Access policies, at their simplest, are if-then statements. If a use
 # Screenshots
 
 ![Alt text](/Screenshots/Microsoft-Azure-AD-Conditional-Access-Validator-01.jpg?raw=true "Azure AD Conditional Access Validator")
+
+![Alt text](/Screenshots/Microsoft-Azure-AD-Conditional-Access-Validator-02.jpg?raw=true "Azure AD Conditional Access Validator")
