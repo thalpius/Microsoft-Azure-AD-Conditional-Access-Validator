@@ -18,6 +18,6 @@ CheckAll -Username user@thalpius.onmicrosoft.com
 
 # Screenshots
 
-![Alt text](/Screenshots/Microsoft-Azure-AD-Conditional-Access-Validator-01.jpg?raw=true "Azure AD Conditional Access Validator")
+![Alt text](/Screenshots/Microsoft-Azure-Conditional-Access-Validator-01.jpg?raw=true "Azure AD Conditional Access Validator")
 
-![Alt text](/Screenshots/Microsoft-Azure-AD-Conditional-Access-Validator-02.jpg?raw=true "Azure AD Conditional Access Validator")
+![Alt text](/Screenshots/Microsoft-Azure-Conditional-Access-Validator-02.jpg?raw=true "Azure AD Conditional Access Validator")
