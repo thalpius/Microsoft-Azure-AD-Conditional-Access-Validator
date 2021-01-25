@@ -266,7 +266,7 @@ function CheckCloudApps {
                 'Accept'       = 'application/json'
                 'Content-Type' = 'application/x-www-form-urlencoded'
             }
-            $AuthRequest = Invoke-WebRequest https://login.microsoftonline.com/Common/oauth2/token -Headers $CloudAppsHeaders -Method Post -Body $UserCloudAppsBody
+            $AuthRequest = Invoke-WebRequest -Uri https://login.microsoftonline.com/Common/oauth2/token -Headers $CloudAppsHeaders -Method Post -Body $UserCloudAppsBody
             If ($AuthRequest.StatusCode -eq "200") {
                 Write-Host "- User $username is not able to authenticate to Microsoft 365 using PowerShell" -ForegroundColor Green
             }
